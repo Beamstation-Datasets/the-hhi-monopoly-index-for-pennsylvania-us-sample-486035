@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Pennsylvania, US",
+  "export_job_id": "8d93318d-7e30-4fa6-b824-d23229175d23",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 486035,
+  "location_name": "Pennsylvania",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-pennsylvania-us-sample-486035",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/486035/beamstation_486035_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 133,
+  "sample_sha256": "340f018565d85127f4d8252839bc28ad4384fcfdbd2f10578dbc25f6324e6e83",
+  "sample_size_bytes": 520526,
+  "total_records": 1330,
+  "updated_at": "2026-04-08T00:52:54.950651+00:00"
+}
