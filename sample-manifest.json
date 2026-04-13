@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8d93318d-7e30-4fa6-b824-d23229175d23",
+  "id_short": 486035,
+  "published_at": "2026-04-13T07:01:57Z",
+  "repo_name": "the-hhi-monopoly-index-for-pennsylvania-us-sample-486035",
+  "sample_asset_name": "beamstation_486035_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/486035/beamstation_486035_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_records": 133,
+  "sample_sha256": "340f018565d85127f4d8252839bc28ad4384fcfdbd2f10578dbc25f6324e6e83",
+  "sample_size_bytes": 520526,
+  "total_records": 1330
+}
