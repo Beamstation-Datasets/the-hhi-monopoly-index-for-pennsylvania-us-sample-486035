@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Pennsylvania, US
 
-> Free BeamStation sample export with 96 rows and masked direct-contact fields.
+> Free BeamStation sample export with 118 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `486035` |
 | Location | Pennsylvania |
 | Category | Restaurants |
-| Full dataset size | 968 records |
-| Free sample size | 96 records (9.92%) |
-| Last export | 2026-04-22T12:49:54.757426+00:00 |
+| Full dataset size | 1,185 records |
+| Free sample size | 118 records (9.96%) |
+| Last export | 2026-04-29T13:41:24.053608+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-pennsylvania-us-sample-486035/releases/download/sample-latest/beamstation_486035_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
